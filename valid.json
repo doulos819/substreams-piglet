@@ -1,0 +1,1104 @@
+[
+  {
+    "@module": "map_transfer",
+    "@block": 44294909,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "cadbac79d024e28af5399d258e51dabe31d1e37f",
+          "to": "8919ee09ff88772871fc9851142ee5c40cc6321c",
+          "value": "0",
+          "transaction": "d4f52c720605e475fac7ad157ade99740c0f185c992ce07166b2cd7e2f9cec14"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294911,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "d82181f54228e3724732ac050d85cef7a5400e50",
+          "to": "c5f9c44f2a6e80a1644cd13801b776ee9be9bd48",
+          "value": "13500000000000000000",
+          "transaction": "da521ef250f546daf1bdbb972cdcbbe6fa4c64fb40746a6e3bb317f6be6fd7f4"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294913,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "b47f664086d75c3aea94339d0a6a4d32317f4ca2",
+          "to": "74e086dda78c6ba6f7dbd1e81500d1a1a324506c",
+          "value": "80000000000000000000",
+          "transaction": "3b686c2daf9aee8d27a8a3f0f05041e97119818721ef6bc87d251e2227dac111"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294915,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "d32f3139a214034a0f9777c87ee0a064c1ff6ae2",
+          "to": "14c78ba71b432ea59afc79369a0751ca62b83fc2",
+          "value": "960480186518656",
+          "transaction": "ea31194805b1208044aecc276d0d88ccd0e6e75683be4d056cb5590014592d85"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "14c78ba71b432ea59afc79369a0751ca62b83fc2",
+          "to": "d32f3139a214034a0f9777c87ee0a064c1ff6ae2",
+          "value": "960480186518656",
+          "transaction": "ea31194805b1208044aecc276d0d88ccd0e6e75683be4d056cb5590014592d85"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "14c78ba71b432ea59afc79369a0751ca62b83fc2",
+          "to": "85cf0915c8d3695b03da739e3eaefd5388eb5eef",
+          "value": "0",
+          "transaction": "ea31194805b1208044aecc276d0d88ccd0e6e75683be4d056cb5590014592d85"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294919,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "fd3f38cd406d39fa3435dd99816f1e18b608e7c0",
+          "to": "e43208e94dcc5ad538efaf6628f2a9533e79a894",
+          "value": "0",
+          "transaction": "c1954eeb60f300aa7041c259827221260526a981065338c3f43b09dff15d58d8"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "cadbac79d024e28af5399d258e51dabe31d1e37f",
+          "to": "8919ee09ff88772871fc9851142ee5c40cc6321c",
+          "value": "0",
+          "transaction": "c1954eeb60f300aa7041c259827221260526a981065338c3f43b09dff15d58d8"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294924,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "value": "593999999999999999",
+          "transaction": "d611c3a55381451d855589b172f6c6a483da8a585ee73ee05f325efb79aa9d4e"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "to": "91993f2101cc758d0deb7279d41e880f7defe827",
+          "value": "593999999999999999",
+          "transaction": "d611c3a55381451d855589b172f6c6a483da8a585ee73ee05f325efb79aa9d4e"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "value": "989999999999999998",
+          "transaction": "d611c3a55381451d855589b172f6c6a483da8a585ee73ee05f325efb79aa9d4e"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "to": "fb06a737f549eb2512eb6082a808fc7f16c0819d",
+          "value": "989999999999999998",
+          "transaction": "d611c3a55381451d855589b172f6c6a483da8a585ee73ee05f325efb79aa9d4e"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "91993f2101cc758d0deb7279d41e880f7defe827",
+          "to": "25678cb3007eee33b55e8294cfe7384ee68883b5",
+          "value": "1350165787898399999",
+          "transaction": "d611c3a55381451d855589b172f6c6a483da8a585ee73ee05f325efb79aa9d4e"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "25678cb3007eee33b55e8294cfe7384ee68883b5",
+          "value": "11615999999999999999",
+          "transaction": "d611c3a55381451d855589b172f6c6a483da8a585ee73ee05f325efb79aa9d4e"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294926,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "to": "f3d8627954878cd38bf250db029dbdf1f2979003",
+          "value": "0",
+          "transaction": "54d72921ad51f06bfd7dcf93a190eb8d2364e42e8adea5ba46d114e37b6e0f74"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "to": "bc53b202fb3893b606bdf6f4b86a9d9c8e4b8ab3",
+          "value": "0",
+          "transaction": "54d72921ad51f06bfd7dcf93a190eb8d2364e42e8adea5ba46d114e37b6e0f74"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294927,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "be9facc47b87ebb0df1ad2df441f2e7edb2cb7fd",
+          "to": "5f69c2ec01c22843f8273838d570243fd1963014",
+          "value": "33012641011280902472",
+          "transaction": "f764d8a4c0ff4c008801956c107629a425f4035a3c77ab578a815f824569ccff"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294928,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "fd3f38cd406d39fa3435dd99816f1e18b608e7c0",
+          "to": "e49c3e5c60b8429e8d92dbcd198c0f75368c1894",
+          "value": "0",
+          "transaction": "2959892240aff370806898dc61b1bce7055c59cbb15d2392aa8cf267fb23f126"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "bc5526bb3b2534b463f2f9297c52d694943b8ab3",
+          "to": "338ebace32f85410043ec4251447cf0fe3825a5b",
+          "value": "0",
+          "transaction": "2959892240aff370806898dc61b1bce7055c59cbb15d2392aa8cf267fb23f126"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294934,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "80dc00811e7c4a03c1f1599d3dc8febaad87bf87",
+          "to": "bf1c3f504eb9dc16bb21110ba418c7bd6482fc26",
+          "value": "1000000000000000000",
+          "transaction": "84501053322fbc3df574d248da0c3b283940571876d3746ac99dd2eef61375a7"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294936,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "80dc00811e7c4a03c1f1599d3dc8febaad87bf87",
+          "to": "289a76b4205cad69b211631c7888c3c075156275",
+          "value": "1000000000000000000",
+          "transaction": "55a0f86c2d42216190719a1de7c3197074f44e39bf99bad8d8d41d73a9772480"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294941,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "to": "f3b2e89390df6aaf8bffe9d1b8eb6db3615d1003",
+          "value": "0",
+          "transaction": "02f6ddab1e9ba340be77ec2759e84a60d99681a89724b2213bbbc1910d3d5095"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294942,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "43235d2645b7718dee909711c1214e140af82483",
+          "to": "d82181f54228e3724732ac050d85cef7a5400e50",
+          "value": "20250000000000000000",
+          "transaction": "e820a2db4e5d88191d67e0bd83c0267da2840654e6e00588eb89aca08552aba7"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294947,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "254aa3a898071d6a2da0db11da73b02b4646078f",
+          "to": "1e8ae092651e7b14e4d0f93611267c5be19b8b9f",
+          "value": "5305864199082351619",
+          "transaction": "3c2f39dff47e5c07378cc4d3fbbe0ae34e64ac3218d241faaba1f9d9845e527b"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "1e8ae092651e7b14e4d0f93611267c5be19b8b9f",
+          "to": "95423a473716c3a40bb0d28aad620461bd6fb9ca",
+          "value": "5305864199082351619",
+          "transaction": "3c2f39dff47e5c07378cc4d3fbbe0ae34e64ac3218d241faaba1f9d9845e527b"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294948,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "value": "424544400000000000",
+          "transaction": "a4183a6b32e10826d5ed5ed0017c190544f0a31de16c9e286ffba05c4bfe7da9"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "to": "91993f2101cc758d0deb7279d41e880f7defe827",
+          "value": "424544400000000000",
+          "transaction": "a4183a6b32e10826d5ed5ed0017c190544f0a31de16c9e286ffba05c4bfe7da9"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "value": "707574000000000000",
+          "transaction": "a4183a6b32e10826d5ed5ed0017c190544f0a31de16c9e286ffba05c4bfe7da9"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "to": "fb06a737f549eb2512eb6082a808fc7f16c0819d",
+          "value": "707574000000000000",
+          "transaction": "a4183a6b32e10826d5ed5ed0017c190544f0a31de16c9e286ffba05c4bfe7da9"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "value": "2819587693413958600",
+          "transaction": "a4183a6b32e10826d5ed5ed0017c190544f0a31de16c9e286ffba05c4bfe7da9"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "to": "91993f2101cc758d0deb7279d41e880f7defe827",
+          "value": "2819587693413958600",
+          "transaction": "a4183a6b32e10826d5ed5ed0017c190544f0a31de16c9e286ffba05c4bfe7da9"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "55c742c91d4694b0b97ea2cec71f86b4fb9a7ac3",
+          "value": "19634093906586041400",
+          "transaction": "a4183a6b32e10826d5ed5ed0017c190544f0a31de16c9e286ffba05c4bfe7da9"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294953,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89dade90e831ebef4b1a1c5acd9fbadd0a2dd51e",
+          "to": "10d443594cbe2ecc2574df8710ffc6a9a2f46c74",
+          "value": "1445000000000000000000",
+          "transaction": "8e615d32449b8cb15cbadc2ad5c416c0214b1fba5e216eb37ce9f52c1ad5496b"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "10d443594cbe2ecc2574df8710ffc6a9a2f46c74",
+          "to": "5ab5c56b9db92ba45a0b46a207286cd83c15c939",
+          "value": "1445000000000000000000",
+          "transaction": "8e615d32449b8cb15cbadc2ad5c416c0214b1fba5e216eb37ce9f52c1ad5496b"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "5ab5c56b9db92ba45a0b46a207286cd83c15c939",
+          "to": "27f8d03b3a2196956ed754badc28d73be8830a6e",
+          "value": "1445000000000000000000",
+          "transaction": "8e615d32449b8cb15cbadc2ad5c416c0214b1fba5e216eb37ce9f52c1ad5496b"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294958,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "d32f3139a214034a0f9777c87ee0a064c1ff6ae2",
+          "to": "db6f1920a889355780af7570773609bd8cb1f498",
+          "value": "33053464439760242728",
+          "transaction": "99b6266989e2be132f96ebc401e905b9229629a392eff582f09e8e8ff8cabe22"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "db6f1920a889355780af7570773609bd8cb1f498",
+          "to": "254aa3a898071d6a2da0db11da73b02b4646078f",
+          "value": "33053464439760242728",
+          "transaction": "99b6266989e2be132f96ebc401e905b9229629a392eff582f09e8e8ff8cabe22"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294961,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "f0ed1e1f0a4d7cea862cdb77c2fd9a9aa87a8833",
+          "to": "f884630b38433209908b3209f273dacc83fc5dc6",
+          "value": "5000000000000000000",
+          "transaction": "003c252f894d504b0a557a246c07b169445afefeeb3d1876436062320b6ff26a"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "830017756ce93b471f90a0502985766c9bb9baf4",
+          "to": "18da62ba13ae20007fd42961fd52f3128b54e678",
+          "value": "1499999999999999999",
+          "transaction": "328979a5bf0d73bd3f2ea6b6bd5337842c515711687d37236417bb4a2b31b2f6"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "ed8d80ddcb662199c494ee4aed349933140909a2",
+          "to": "830017756ce93b471f90a0502985766c9bb9baf4",
+          "value": "6249999999999999994",
+          "transaction": "328979a5bf0d73bd3f2ea6b6bd5337842c515711687d37236417bb4a2b31b2f6"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "830017756ce93b471f90a0502985766c9bb9baf4",
+          "to": "4aac95ebe2ea6038982566741d1860556e265f8b",
+          "value": "8499999999999999995",
+          "transaction": "328979a5bf0d73bd3f2ea6b6bd5337842c515711687d37236417bb4a2b31b2f6"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "to": "2ce9b1774a3b9e6441f1811f5f7e550314465e7a",
+          "value": "0",
+          "transaction": "0875e2e096bb32662c69b0936022ca239e74e9f9f5fbc44a81c7886905ec8f43"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294963,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "to": "f30f3d601d47d718ef40239529c97ffed4f1a003",
+          "value": "0",
+          "transaction": "36a09d31cc68cadc01f94899134dcc4bdd477e60dd4d0579e906a2c4bb208465"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "bc5526bb3b2534b463f2f9297c52d694943b8ab3",
+          "to": "33c5bfb914beaddc3a6f6dad9c47ce7750667a5b",
+          "value": "0",
+          "transaction": "36a09d31cc68cadc01f94899134dcc4bdd477e60dd4d0579e906a2c4bb208465"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "fd3f38cd406d39fa3435dd99816f1e18b608e7c0",
+          "to": "e43208e94dcc5ad538efaf6628f2a9533e79a894",
+          "value": "0",
+          "transaction": "36a09d31cc68cadc01f94899134dcc4bdd477e60dd4d0579e906a2c4bb208465"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294966,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "95423a473716c3a40bb0d28aad620461bd6fb9ca",
+          "to": "f3cf6c9a95867150e744c8bde455095e8eab9d4c",
+          "value": "2680000000000000000",
+          "transaction": "412e460953183eabe99ac7f43190e1d97be5afc3f7e51facdc3d004f2d296197"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294967,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "value": "448199999999999999",
+          "transaction": "3c40edf242309fa859054c6e68ad81b0424c783cd6451b0129abbddf9448df03"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "to": "91993f2101cc758d0deb7279d41e880f7defe827",
+          "value": "448199999999999999",
+          "transaction": "3c40edf242309fa859054c6e68ad81b0424c783cd6451b0129abbddf9448df03"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "value": "448199999999999999",
+          "transaction": "3c40edf242309fa859054c6e68ad81b0424c783cd6451b0129abbddf9448df03"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "to": "fb06a737f549eb2512eb6082a808fc7f16c0819d",
+          "value": "448199999999999999",
+          "transaction": "3c40edf242309fa859054c6e68ad81b0424c783cd6451b0129abbddf9448df03"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "value": "5480404694492399998",
+          "transaction": "3c40edf242309fa859054c6e68ad81b0424c783cd6451b0129abbddf9448df03"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "to": "91993f2101cc758d0deb7279d41e880f7defe827",
+          "value": "5480404694492399998",
+          "transaction": "3c40edf242309fa859054c6e68ad81b0424c783cd6451b0129abbddf9448df03"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "51111b46cef5ace5bdd32cde73ea95166c2bbe00",
+          "value": "292423195305507600001",
+          "transaction": "3c40edf242309fa859054c6e68ad81b0424c783cd6451b0129abbddf9448df03"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294968,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "80dc00811e7c4a03c1f1599d3dc8febaad87bf87",
+          "to": "38a5bceb65b82a200ab37a863e64c635b9331223",
+          "value": "1000000000000000000",
+          "transaction": "36f3c59efe0907c6935a59a3f14cf4b32bc84f4c0ec6138036a4b9a922b6c1b5"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294970,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "d32f3139a214034a0f9777c87ee0a064c1ff6ae2",
+          "to": "20da12d56cf09825e1eeefd17c7270acf6d2e2ba",
+          "value": "132170757508324574085",
+          "transaction": "352d2047dea47939d893cac2a20bcbc3a88736dfff66d8e0f76bae6c3c4fc1de"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294972,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "to": "f3b2e89390df6aaf8bffe9d1b8eb6db3615d1003",
+          "value": "0",
+          "transaction": "a0e7629f1438a7dc2c8ce5c514168743441a96fec3f3d052dc1134382cdd6b1c"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294973,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "80dc00811e7c4a03c1f1599d3dc8febaad87bf87",
+          "to": "9ffff4b80f4a728ae7a596dbe557538e0792c81a",
+          "value": "1000000000000000000",
+          "transaction": "06d133f7b8383982bf55055ee1c696f915d92bf608658627dd61a257f6835304"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294974,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "bf1c3f504eb9dc16bb21110ba418c7bd6482fc26",
+          "to": "5f69c2ec01c22843f8273838d570243fd1963014",
+          "value": "590082611565619187",
+          "transaction": "15c367508ce75d90b5de6bd33d69f7d38de18d0f97d3e924fd591077e960a722"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294976,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "5f69c2ec01c22843f8273838d570243fd1963014",
+          "to": "be9facc47b87ebb0df1ad2df441f2e7edb2cb7fd",
+          "value": "989833652909017462",
+          "transaction": "edf5a20f252ee93a12c1f8bbdf116b7720b264fd871bbe92906f06d39561ed59"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294977,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "d32f3139a214034a0f9777c87ee0a064c1ff6ae2",
+          "to": "10d443594cbe2ecc2574df8710ffc6a9a2f46c74",
+          "value": "222568298303489778427",
+          "transaction": "7c06fd044a3525900245809ac0646dde44cfc96652372500cb886427b1f7791a"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "10d443594cbe2ecc2574df8710ffc6a9a2f46c74",
+          "to": "254aa3a898071d6a2da0db11da73b02b4646078f",
+          "value": "222568298303489778427",
+          "transaction": "7c06fd044a3525900245809ac0646dde44cfc96652372500cb886427b1f7791a"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294979,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "5f69c2ec01c22843f8273838d570243fd1963014",
+          "to": "806489822cc837e6c1ce993dbc12b4d3e4426bb0",
+          "value": "999831963599858504",
+          "transaction": "39ea9428e39b787d59265c0f9fbc9bbe3a82bc48d3369c741923882d96c5553b"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "80dc00811e7c4a03c1f1599d3dc8febaad87bf87",
+          "to": "9b290885bcf156f6680ac7397a9b95742999d536",
+          "value": "1000000000000000000",
+          "transaction": "38a4e1d1cdb64500a533a9920d22b23e1712ce4d2fa6166f25d0ef0d71e93296"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294982,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "80dc00811e7c4a03c1f1599d3dc8febaad87bf87",
+          "to": "746e6d609733380780051a999ceb74d441b3377b",
+          "value": "1000000000000000000",
+          "transaction": "602b760e3b72b602931d2fbbcb49cfd2866a476ced0b3474a03913e6eb18cd97"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294986,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "8929d3fea77398f64448c85015633c2d6472fb29",
+          "to": "cfd674f8731e801a4a15c1ae31770960e1afded1",
+          "value": "492562797719300076",
+          "transaction": "328d63b54ec84f4be4ef47b90e7dcd1de71c923554fe6dbc891a0424dcfb705e"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "cfd674f8731e801a4a15c1ae31770960e1afded1",
+          "to": "853e4442fa0afb0fe784818dcfadd5d753bc00e9",
+          "value": "492562797719300076",
+          "transaction": "328d63b54ec84f4be4ef47b90e7dcd1de71c923554fe6dbc891a0424dcfb705e"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294988,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "bf1c3f504eb9dc16bb21110ba418c7bd6482fc26",
+          "to": "5f69c2ec01c22843f8273838d570243fd1963014",
+          "value": "400056007841097754",
+          "transaction": "2f4ca463f5c9de6b49fa1d8e2fed4bd75c53162d8ed8eca4b3e600a6a29cd6eb"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "to": "f30f3d601d47d718ef40239529c97ffed4f1a003",
+          "value": "0",
+          "transaction": "86403118a6d3a6e0833158a22f15a3a47edd2e275f9538f017bc83357d45f1ac"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294990,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89dade90e831ebef4b1a1c5acd9fbadd0a2dd51e",
+          "to": "6ab291a9bb3c20f0017f2e93a6d1196842d09bf4",
+          "value": "1427186325072079894807",
+          "transaction": "052cbf58c86d25f484b890614d6f6af69427ae511df5c85de33b76d1fecee8b6"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294992,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "4a53119dd905fd39ccc532c68e69505dfb47fc2c",
+          "to": "1111111254eeb25477b68fb85ed929f73a960582",
+          "value": "6980753401865136523",
+          "transaction": "7c22e9b8aaf72168ebeccc162edfb32f0f2258e470369fb80377ce5cef312bc6"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "1111111254eeb25477b68fb85ed929f73a960582",
+          "to": "0bd7473cbbf81d9dd936c61117ed230d95006ca2",
+          "value": "6980753401865136523",
+          "transaction": "7c22e9b8aaf72168ebeccc162edfb32f0f2258e470369fb80377ce5cef312bc6"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "0bd7473cbbf81d9dd936c61117ed230d95006ca2",
+          "to": "82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+          "value": "6980753401865136523",
+          "transaction": "7c22e9b8aaf72168ebeccc162edfb32f0f2258e470369fb80377ce5cef312bc6"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44294995,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "to": "2cc8aa4c077de9efb7cb483b489a4481f4c54e7a",
+          "value": "0",
+          "transaction": "35fa870cfd119aa8e1e6be0ee26d85fbfc4399e2cabba510df331f5645365abb"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295004,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "5f69c2ec01c22843f8273838d570243fd1963014",
+          "to": "f3784e1941dd1edfc66de6f4f74e067df113aa02",
+          "value": "4379263909480911060",
+          "transaction": "97dc50fc28bac3d03be47918489736cd6f2cea0ef3d8fdd3ac6bf247efe21e9d"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295005,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "9221a97bed5cc05da7128d54b5822546b1e18fe6",
+          "to": "5f69c2ec01c22843f8273838d570243fd1963014",
+          "value": "90012601764246995",
+          "transaction": "99f0c61330054c24d47c83227b8d3851b5563f7f91f286124ab8cbd36996742c"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295010,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "fe530931da161232ec76a7c3bea7d36cf3811a0d",
+          "to": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "value": "15018097515317079127",
+          "transaction": "74fd89189be9bdf8993b36ddc4daa89bf6c145ea05500040a402af03a4d87c5c"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "to": "5b062dc717983be67f7e1b44a6557d7da7d399bd",
+          "value": "14991865530724550699",
+          "transaction": "74fd89189be9bdf8993b36ddc4daa89bf6c145ea05500040a402af03a4d87c5c"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295011,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "a245ccf9fa9ac7aaf40e82f4818f5707e8dc0219",
+          "to": "5f69c2ec01c22843f8273838d570243fd1963014",
+          "value": "3000420058808233153",
+          "transaction": "3130554dd3914c93a79d89093cce95e18bff72cc4281fe9bad09f39217361dd7"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "e7804c37c13166ff0b37f5ae0bb07a3aebb6e245",
+          "to": "f6450fb52a5f2201067473ee476440d4c708af19",
+          "value": "16000846000000000000",
+          "transaction": "fc1080809a296f74e61b373f57fdaf7c9d9a5f817638f1a6f145af214320a245"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295012,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "fe530931da161232ec76a7c3bea7d36cf3811a0d",
+          "to": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "value": "12047560794012830953",
+          "transaction": "0d971b37df4a39367bc2a131091951a8d21eaf481cc905a6cb85e993abbf37f8"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "to": "f82af5cd1f0d24cdcf9d35875107d5e43ce9b3d0",
+          "value": "12036636821702475488",
+          "transaction": "0d971b37df4a39367bc2a131091951a8d21eaf481cc905a6cb85e993abbf37f8"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295013,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "to": "f3a3d1b89a70e291531ecb4a1299117f5de44612",
+          "value": "5120000000000000000000",
+          "transaction": "3b706401ee6764d33ff3dd233c6bd776ca8ec50a6437f342b051d71c903cea9d"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "f3a3d1b89a70e291531ecb4a1299117f5de44612",
+          "to": "b18f8ba8d541c93fb6f15012b2f1a2f6492fe053",
+          "value": "5120000000000000000000",
+          "transaction": "3b706401ee6764d33ff3dd233c6bd776ca8ec50a6437f342b051d71c903cea9d"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "f3a3d1b89a70e291531ecb4a1299117f5de44612",
+          "to": "89cb4ae0b31516dc331fe0ae9a5bcc906c15c21c",
+          "value": "2560000000000000000000",
+          "transaction": "3b706401ee6764d33ff3dd233c6bd776ca8ec50a6437f342b051d71c903cea9d"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295015,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "fe530931da161232ec76a7c3bea7d36cf3811a0d",
+          "to": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "value": "13392938782155944911",
+          "transaction": "62433632b17015586e075fdad3df2adac42debd2158149af905ed2c9ff67259a"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "to": "f82af5cd1f0d24cdcf9d35875107d5e43ce9b3d0",
+          "value": "13396969848696640395",
+          "transaction": "62433632b17015586e075fdad3df2adac42debd2158149af905ed2c9ff67259a"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295019,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "5645dcb64c059aa11212707fbf4e7f984440a8cf",
+          "to": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "value": "12394355008724776874",
+          "transaction": "76ee243bd979666a162e6728f28aefa764feee9e0cd194cc4b23506cd7467eb3"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "to": "a7152fad7467857dc2d4060fecaadf9f6b8227d3",
+          "value": "12363456029992449537",
+          "transaction": "76ee243bd979666a162e6728f28aefa764feee9e0cd194cc4b23506cd7467eb3"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295022,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "80dc00811e7c4a03c1f1599d3dc8febaad87bf87",
+          "to": "af23eaa6d8049c649c1e0da56fe89af11e091a10",
+          "value": "1000000000000000000",
+          "transaction": "16696a8f33b89bafcb27d4d7c10eb3a3d4aa61f9e1b30161f15ae63895e6f3bf"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "5645dcb64c059aa11212707fbf4e7f984440a8cf",
+          "to": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "value": "13853352668918934164",
+          "transaction": "0a1cda0ce186a85119033a8973eb7ef90851a1dc5c368cec541c3bb5262f9b17"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "c59938e2d9ff9a0ecccbedf39031b1600d008eaf",
+          "to": "a7152fad7467857dc2d4060fecaadf9f6b8227d3",
+          "value": "13820623164684240368",
+          "transaction": "0a1cda0ce186a85119033a8973eb7ef90851a1dc5c368cec541c3bb5262f9b17"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295023,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "80dc00811e7c4a03c1f1599d3dc8febaad87bf87",
+          "to": "4c549b1795cc98d9f133a741eaa195211173452f",
+          "value": "1000000000000000000",
+          "transaction": "d11559ce89c8761033b975985802ea322912dbfc98651a3e353d2409e33cd803"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "890de16fd7e0d26d2eeff96f6757907de55f7bf4",
+          "to": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "value": "197000000000000000000",
+          "transaction": "c9a32bcc6a7c7fd239294e8b829c9b5c49ac718b246177c240b30bc3365d283a"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295025,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "aee4d11a16b2bc65edd6416fb626eb404a6d65bd",
+          "to": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "value": "1930600000000000000",
+          "transaction": "95d2f4c36756601568f09b57d4aed81ca9e8bc14bc85a2eac4a3afb9cb2bf60a"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "82e59334da8c667797009bbe82473b55c7a6b311",
+          "to": "fb06a737f549eb2512eb6082a808fc7f16c0819d",
+          "value": "1930600000000000000",
+          "transaction": "95d2f4c36756601568f09b57d4aed81ca9e8bc14bc85a2eac4a3afb9cb2bf60a"
+        }
+      ]
+    }
+  },
+  {
+    "@module": "map_transfer",
+    "@block": 44295027,
+    "@type": "erc20.types.v1.TransferEvents",
+    "@data": {
+      "events": [
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "8929d3fea77398f64448c85015633c2d6472fb29",
+          "to": "cfd674f8731e801a4a15c1ae31770960e1afded1",
+          "value": "59093310610610185",
+          "transaction": "4a005d2fb84fd324a7b050e13991655c91f0e59a266dda049b50947916ddb641"
+        },
+        {
+          "address": "8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+          "from": "cfd674f8731e801a4a15c1ae31770960e1afded1",
+          "to": "853e4442fa0afb0fe784818dcfadd5d753bc00e9",
+          "value": "59093310610610185",
+          "transaction": "4a005d2fb84fd324a7b050e13991655c91f0e59a266dda049b50947916ddb641"
+        }
+      ]
+    }
+  }
+]
